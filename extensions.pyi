@@ -45,3 +45,7 @@ JSONARRAY: Any
 JSONB: Any
 JSONBARRAY: Any
 k: Any
+
+# manually added
+connection: Any
+cursor: Any
