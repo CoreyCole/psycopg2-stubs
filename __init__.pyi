@@ -5,3 +5,5 @@
 from typing import Any, Optional
 
 def connect(dsn: Optional[Any] = ..., connection_factory: Optional[Any] = ..., cursor_factory: Optional[Any] = ..., **kwargs: Any): ...
+
+OperationalError: Any
